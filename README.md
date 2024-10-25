@@ -53,7 +53,7 @@ To deploy this project run
 
 ## Support
 
-For support join the [Discord](https://discord.gg/) server
+For support join the [Discord](https://discord.gg/RQ2NB2V9av) server
 
 ## Tech Stack
 
